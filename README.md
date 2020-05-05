@@ -10,6 +10,6 @@ Description: A two team partner project for CSCI 130 made purely for full-stack 
 XAMPP - For Database, local hosting
 Notepad or Sublime Text for CSS/HTML/PHP/JavaScript files.
 
-A README.txt with instructrions on how to run these files are included in the repository.
+A README.txt with instructrions on how to run these files are included in the reversigame folder. All File names are named accordingly, and made to be self explanatory. 
 
 
